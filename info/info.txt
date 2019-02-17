@@ -1,7 +1,40 @@
+#README
+
+This page is a redirect from Rate My Professors.
+
+The Bit.Ly URL for this page is the following:
+
+http://bit.ly/2EeCL0t
+
+In the interest of full disclosure, I asked a student to post a review for me on Rate My Professors so that I could
+*link* *back* to the reviews on Rate My Professor and say what the students there got wrong.
+
+As a first step, please go through the link below:
+--+--
+
 URL: https://www.reddit.com/r/changemyview/comments/aqsrel/cmv_everyone_cannot_learn_to_code_in_a_practical/
 
 --+--
+Please note how virtually nobody can defeat the argument that Software Engineering is not something everyone can do.
 
+Students at Hartnell College, which is a Community College in California, are generally highly underprepared 
+in mathematics, but math is foundational for Computer Science. They really should not be taking Engineering 
+classes unless they have the right level of mathematical preparation. This is the basic problem. This is 
+the problem with themselves that the students who are providing these comments (and we know which 
+Semester and which classthey are from) are not talking about.
+
+Please note that the GitHub link being pointed to has discussions with some of the leading thinkers in the 
+world, including Amartya Sen, Noam Chomsky, Martha Nussbaum and others. This is to primarily alert you to the 
+fact that this GitHub has a number of repositories, and not all of the repositories are actually related to
+Hartnell College at all.
+
+--+---
+
+Here are the comments that the commenter on reddit.com/r/changemyview posted. Notice how cogently he or she
+has argued his or her points.
+
+Comments follow.
+--+---
 
 Learning to code is hard. It is one thing to learn the syntax of a language and it is another thing to
 understand how a particular language is actually accomplishing its execution. I believe one must 
